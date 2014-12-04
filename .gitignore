@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/cmake_sample/build
+/make_sample/sample1_unittest
