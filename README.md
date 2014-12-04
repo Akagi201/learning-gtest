@@ -1,5 +1,9 @@
 # Learning GTest
 
+[![Build Status](https://travis-ci.org/Akagi201/learning-gtest.svg)](https://travis-ci.org/Akagi201/learning-gtest)
+
+Some simple samples to learn `Google C++ Testing Framework`.
+
 ## `make_sample`
 
 A simple sample to integrate *`Makefile`* with `Google C++ Testing Framework`.
